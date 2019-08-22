@@ -2,6 +2,3 @@ the first line
 cherry pick
 
 modify on the demo branch
-
-
-abcdef
